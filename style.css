@@ -16,6 +16,12 @@ h1{
     width: 100%;
 }
 
+@media screen and (max-width: 600px) {
+    .heading {
+      text-align: center;
+      font: 600 1em 'Raleway', sans-serif;
+    }
+
 h3{
     font: 900 1em 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);
